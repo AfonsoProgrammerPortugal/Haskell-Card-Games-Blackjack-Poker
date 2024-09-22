@@ -1,8 +1,8 @@
 # Haskell-Card-Games-Blackjack-Poker
 Projeto 1 para a cadeira "Principios de Programação"
 # Projeto
-O projeto consiste de 3 partes (A, B, C)
-Encontra-se o enunciado do projeto no ficheiro "projeto1.pdf"
+O projeto consiste de 3 partes (A, B, C).
+Encontra-se o enunciado completo do projeto no ficheiro "projeto1.pdf"
 # A. Baralho
 Defina uma lista baralho com as 52 cartas do baralho. A sua
 definição deve usar uma lista em compreensão, e não uma mera listagem das
